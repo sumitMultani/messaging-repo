@@ -8,6 +8,6 @@ public class MessageController {
 
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Aws code pipeline deployement";
+		return "Aws code pipeline Re-deployement";
 	}
 }
